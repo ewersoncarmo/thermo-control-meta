@@ -1,0 +1,9 @@
+[submodule "microservices/thermo-control-device-management"]
+	path = microservices/thermo-control-device-management
+	url = https://github.com/ewersoncarmo/thermo-control-device-management.git
+[submodule "microservices/thermo-control-temperature-monitoring"]
+	path = microservices/thermo-control-temperature-monitoring
+	url = https://github.com/ewersoncarmo/thermo-control-temperature-monitoring.git
+[submodule "microservices/thermo-control-temperature-processing"]
+	path = microservices/thermo-control-temperature-processing
+	url = https://github.com/ewersoncarmo/thermo-control-temperature-processing.git
